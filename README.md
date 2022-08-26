@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://matheus-macedo.herokuapp.com/](https://matheus-macedo.herokuapp.com/)
 
-- 💬 Ask me about **Python, React**
+- 💬 Ask me about **Python, React and Computer Vision**
 
 - 📫 How to reach me **macedo.matheus81@gmail.com**
 
